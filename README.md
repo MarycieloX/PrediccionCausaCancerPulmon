@@ -1,2 +1,2 @@
 # PrediccionCausaCancerPulmon
-Predicción de la causa principal del cáncer de pulmón
+Predicción de la causa principal del Cáncer de Pulmón
